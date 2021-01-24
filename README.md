@@ -1,5 +1,5 @@
 # myCheatSheet
-![image](Screenshot(13).png)
+![Image](https://github.com/aktuts-352/myCheatSheet/blob/main/Screenshot%20(13).png)
 This is a #cheatSheet template which is made by using #HTML,#Css and #Javascript.
 For making this cheatSheet we used the prism concept and we used two important file of prism which is #prism.css and #prism.js
 
